@@ -32,3 +32,4 @@ export class Rng {
     return items[Math.floor(this.next() * items.length)];
   }
 }
+//starter
